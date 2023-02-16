@@ -1,7 +1,0 @@
-INDEX VERSION 1.131+C:\Users\yeol8\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-3065655557.index
-152263432.index
-4004214287.index
-1865797976.index
-2578204313.index
-2115267486.index
